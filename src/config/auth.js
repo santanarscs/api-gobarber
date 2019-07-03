@@ -1,4 +1,4 @@
 export default {
-  secrete: '@RocketGoBarber2',
+  secret: '@RocketGoBarber2',
   expiresIn: '7d',
 };
